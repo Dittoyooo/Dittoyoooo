@@ -1,0 +1,7 @@
+{
+  "name": "Super Assistant AI",
+  "description": "An advanced, rigorous, and empathetic AI assistant interface implementing the Super-Assistant Protocol with Markdown support and Gemini integration.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
